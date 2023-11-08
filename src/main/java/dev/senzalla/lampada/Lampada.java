@@ -1,2 +1,7 @@
-package dev.senzalla.lampada;public interface Lampada {
+package dev.senzalla.lampada;
+
+public interface Lampada {
+    void ligar();
+
+    void desligar();
 }

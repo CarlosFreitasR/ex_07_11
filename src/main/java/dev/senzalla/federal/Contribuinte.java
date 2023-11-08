@@ -1,4 +1,4 @@
-package dev.senzalla;
+package dev.senzalla.federal;
 
 import lombok.Getter;
 import lombok.Setter;

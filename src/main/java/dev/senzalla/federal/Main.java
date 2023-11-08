@@ -1,4 +1,4 @@
-package dev.senzalla;
+package dev.senzalla.federal;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dev.senzalla;
+package dev.senzalla.federal;
 
 public class PessoaJuridica extends Contribuinte{
     public PessoaJuridica(String nome, double rendaBruta) {
